@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a = 5, b = 10, temp;
+    int a = 4, b = 15, temp;
 
     cout << "Before swapping." << endl;
     cout << "a = " << a << ", b = " << b << endl;
